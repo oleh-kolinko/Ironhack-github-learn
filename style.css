@@ -1,0 +1,11 @@
+div {
+  width: 400px;
+  margin: 50px auto;
+  background-color: black;
+}
+
+h1 {
+  font-family: arial;
+  text-align: center;
+  color: white;
+}
